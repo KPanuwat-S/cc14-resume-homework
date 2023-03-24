@@ -1,0 +1,43 @@
+.big-container {
+  width: 70%;
+  margin: auto;
+}
+
+h2 {
+  margin: 0 3.2rem 3.2rem 0;
+  color: var(--main-blue);
+}
+
+table,
+th,
+td {
+  font-size: 1.6rem;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 1.6rem;
+  width: 60%;
+}
+
+table {
+  margin: 3.2rem;
+}
+
+img {
+  margin: 3.2rem;
+  width: 25%;
+  height: 25%;
+}
+
+th {
+  color: var(--main-blue);
+  padding: 3.2rem;
+}
+
+td {
+  text-align: left;
+}
+
+h1 {
+  /* margin: 32px; */
+  color: var(--main-blue);
+}
