@@ -241,3 +241,14 @@ section {
   background-color: var(--tint-blue);
   border-radius: 50%;
 }
+
+.icon-container {
+  width: 4.8rem;
+  height: 4.8rem;
+  background-color: var(--platinum);
+  border-radius: 50%;
+}
+.fa-database {
+  font-size: 2.4rem;
+  color: var(--main-blue);
+}
